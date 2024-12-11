@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP & LLM**
 
-- 📫 How to reach me **rahulnihalani007@gmail.com**
+- 📫 How to reach me **itsnrahul@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KZOz5oRmEC-9TbukFbwhjUiWziG2Aq32/view?usp=sharing](https://drive.google.com/file/d/1KZOz5oRmEC-9TbukFbwhjUiWziG2Aq32/view?usp=sharing)
 
@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/rahul-nihalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-nihalani" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul.n1009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul.n1009" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahulnihalani007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulnihalani007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahulnihalani007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulnihalani007" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/rahulnihalani007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulnihalani007" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/rahuln2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulnihalani007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
