@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **itsnrahul@gmail.com**
 
-- 📄 Know about my experiences [Link](https://drive.google.com/file/d/185lMk-o89BTxTA6eggGRomuUzzWrcglQ/view?usp=sharing)
+- 📄 Know about my experiences [Link](https://github.com/rahuln2002/Rahul-Nihalani-Resume/blob/main/Rahul_Nihalani___Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
